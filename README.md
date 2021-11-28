@@ -32,7 +32,7 @@ The web portal primarily consists of 4 sections as explained below.
 - Tools
   - Heroku (Deployment)
 
-## Do check out the website and video demo!
+<h2> Do check out the <a href="https://engage-submission-tool.herokuapp.com">website</a> and <a href="https://youtu.be/FTIn0C351SM">video demo</a>!</h2>
 
 ### Hope you like it!
 
