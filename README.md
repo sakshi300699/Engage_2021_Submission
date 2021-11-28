@@ -2,7 +2,7 @@
 <b>Made By Sakshi Bhandarkar</b>
 
 <p align="center">
-    <img src="./assets/images/feminine.png" alt="Logo" width="200">
+    <img src="./logo_engage.jpeg" alt="Logo" width="200">
   </a>
 
 I have tried to built a platform that would help students and teachers facilitate the learning process by providing a series of tools that would engage students and boost their productivity. Given the times that we are facing, online learning has become a challenge for both students and teachers. Keeping that in mind, i built a platform that could ease the teaching and learning process.
@@ -34,7 +34,7 @@ The web portal primarily consists of 4 sections as explained below.
 
 ## Do check out the website and video demo!
 
-## Hope you liked it!
+### Hope you like it!
 
 
 
